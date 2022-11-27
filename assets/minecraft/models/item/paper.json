@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides":
+  [
+    {"predicate": {"custom_model_data": 6370001}, "model": "obsidian/obsidian_ingot"},
+    {"predicate": {"custom_model_data": 6370003}, "model": "uranium/uranium_ingot"},
+    {"predicate": {"custom_model_data": 6370004}, "model": "solarium/solarium_ingot"},
+    {"predicate": {"custom_model_data": 6370002}, "model": "hematite/hematite_ingot"},
+    {"predicate": {"custom_model_data": 6370005}, "model": "hematite/hematite_charbon"},
+    {"predicate": {"custom_model_data": 6370006}, "model": "hematite/plate_hematite"},
+    {"predicate": {"custom_model_data": 6370007}, "model": "hematite/plate_hematite_glass"},
+    {"predicate": {"custom_model_data": 6370008}, "model": "hematite/control_panel_hematite"},
+    {"predicate": {"custom_model_data": 6370009}, "model": "hematite/hematite_circuit"},
+    {"predicate": {"custom_model_data": 6370010}, "model": "hematite/hematite_battery_1"},
+    {"predicate": {"custom_model_data": 6370011}, "model": "hematite/hematite_battery_2"},
+    {"predicate": {"custom_model_data": 6370012}, "model": "hematite/hematite_battery_3"},
+    {"predicate": {"custom_model_data": 6370013}, "model": "hematite/hematite_battery_4"}
+
+
+
+  ]
+}

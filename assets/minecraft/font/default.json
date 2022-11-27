@@ -1,0 +1,79 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/admin.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE002"]
+        },
+        {"type": "bitmap", "file": "minecraft:guis/pixel.png","ascent": -2000,"height": -3,"chars": ["\u4E03"]},
+        {"type": "bitmap", "file": "minecraft:guis/pwarps/playerwarps.png","ascent": 23,"height": 139,"chars": ["\u31FA"]},
+        {"type": "bitmap", "file": "minecraft:guis/pwarps/playerwarps_all.png","ascent": 23,"height": 139,"chars": ["\u31FB"]},
+        {"type": "bitmap", "file": "minecraft:guis/pwarps/playerwarps_your.png","ascent": 23,"height": 139,"chars": ["\u31FC"]},
+        {"type": "bitmap", "file": "minecraft:guis/pwarps/click.png","ascent": 10,"height": 13,"chars": ["\u31F6"]},
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fonda.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/moderateur.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/helper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/moderateur.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icontest.png",
+            "ascent": 64,
+            "height": 64,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logosolaria.png",
+            "ascent": 90,
+            "height": 128,
+            "chars": ["\uE007"]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:font/token.png",
+            "ascent": 10,
+            "height": 16,
+            "chars": ["\uE008"]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:font/money.png",
+            "ascent": 10,
+            "height": 16,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [1.0, 1.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}
